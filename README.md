@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Rabia Sajal Niazi</h1>
 <h3 align="center">Digital Detective Uncovering Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username= rabiasajal8&label=Profile%20views&color=0e75b6&style=flat" alt=" rabiasajal8" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username= rabiasajal8 &label=Profile%20views&color=0e75b6&style=flat" alt=" rabiasajal8" /> </p>
+
 
 - 🌱 I’m currently learning *I'm currently delving into various data science frameworks such as TensorFlow and PyTorch, exploring machine learning algorithms, and honing my skills in data visualization with tools like Matplotlib and Seaborn. Additionally, I'm diving deep into subjects like natural language processing, computer vision, and predictive analytics to expand my expertise in the field. 🚀💻*
 
