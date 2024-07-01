@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href=" https://www.linkedin.com/in/rabia-sajal-niazi-107400268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" rabiasajalniazi" height="30" width="40" /></a>
+<a href=" https://www.linkedin.com/in/rabia-sajal-niazi-107400268/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rabia Sajal Niazi" height="30" width="40" /></a>
 <a href="https://instagram.com/rabiasajal.reads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rabiasajal.reads" height="30" width="40" /></a>
 </p>
 
